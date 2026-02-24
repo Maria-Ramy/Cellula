@@ -1,0 +1,123 @@
+===========================
+PERSONAL INFORMATION
+===========================
+Name: Ahmed Mohamed
+Age: 21
+Location: Cairo, Egypt
+Email: ahmed.mohamed@email.com
+LinkedIn: linkedin.com/in/ahmed-mohamed
+
+===========================
+EDUCATIONAL BACKGROUND
+===========================
+Degree: Bachelor of Science in Computer Science
+University: Cairo University, Faculty of Computers and Artificial Intelligence
+Expected Graduation: 2025
+GPA: 3.6 / 4.0
+Relevant Courses: Data Structures, Algorithms, Machine Learning, Natural Language Processing, 
+Database Systems, Deep Learning, Computer Vision, Software Engineering, Statistics and Probability.
+
+===========================
+TECHNICAL SKILLS
+===========================
+Programming Languages: Python, C++, SQL, JavaScript
+Machine Learning: Scikit-learn, XGBoost, Random Forest, SVM, Linear Regression, Logistic Regression
+Deep Learning: TensorFlow, Keras, PyTorch
+Natural Language Processing: NLTK, SpaCy, HuggingFace Transformers, Word2Vec, BERT, GPT, LangChain
+Data Science: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Vector Databases: FAISS, ChromaDB, Pinecone
+Tools: Git, GitHub, Google Colab, Jupyter Notebook, VS Code, Docker
+Cloud: Google Cloud Platform (basic), AWS (basic)
+
+===========================
+SOFT SKILLS
+===========================
+- Strong problem-solving and analytical thinking
+- Excellent communication and teamwork
+- Fast learner and self-motivated
+- Time management and ability to work under pressure
+- Leadership and project management
+
+===========================
+PROJECTS
+===========================
+
+Project 1: Arabic Sentiment Analysis System
+Description: Built a sentiment analysis model to classify Arabic social media text as positive, negative, or neutral.
+Tools Used: Python, HuggingFace Transformers, AraBERT, Pandas, Scikit-learn
+Accuracy Achieved: 89%
+Date: January 2024
+
+Project 2: Personal RAG Chatbot
+Description: Developed a Retrieval-Augmented Generation (RAG) system using LangChain and FAISS that answers questions about a personal knowledge base stored in a text file.
+Tools Used: Python, LangChain, FAISS, HuggingFace Embeddings, Google Gemini API
+Date: June 2024
+
+Project 3: Movie Recommendation System
+Description: Created a content-based and collaborative filtering recommendation system for movies using the MovieLens dataset.
+Tools Used: Python, Pandas, Scikit-learn, Cosine Similarity, Streamlit
+Date: September 2023
+
+Project 4: Named Entity Recognition (NER) System
+Description: Fine-tuned a BERT model to extract named entities (people, locations, organizations) from Arabic news articles.
+Tools Used: Python, PyTorch, HuggingFace, SpaCy
+Accuracy Achieved: 91%
+Date: March 2024
+
+===========================
+INTERNSHIP EXPERIENCE
+===========================
+
+Internship: NLP Intern at Cellula Technologies
+Duration: Summer 2024 (3 months)
+Responsibilities:
+- Studied and applied NLP concepts including tokenization, embeddings, and language models
+- Built RAG systems using LangChain and FAISS
+- Worked on Arabic NLP tasks and text preprocessing
+- Collaborated with the team on real-world AI projects
+
+===========================
+CERTIFICATIONS
+===========================
+- Machine Learning Specialization — Andrew Ng (Coursera) — 2023
+- Deep Learning Specialization — Andrew Ng (Coursera) — 2023
+- Natural Language Processing with HuggingFace (Udemy) — 2024
+- Python for Data Science (DataCamp) — 2022
+
+===========================
+LANGUAGES
+===========================
+- Arabic: Native
+- English: Fluent (reading, writing, speaking)
+
+===========================
+INTERESTS AND HOBBIES
+===========================
+- Artificial Intelligence and NLP research
+- Reading about the latest AI papers and breakthroughs
+- Contributing to open-source projects on GitHub
+- Teaching and tutoring peers in programming and AI
+- Chess and strategic thinking games
+- Football (soccer)
+
+===========================
+GOALS AND ASPIRATIONS
+===========================
+Short-term Goals:
+- Graduate with honors from Cairo University
+- Land a full-time NLP Engineer or ML Engineer role at a top tech company
+- Publish at least one research paper in NLP
+
+Long-term Goals:
+- Build impactful AI products that solve real Arabic language challenges
+- Pursue a Master's degree in Artificial Intelligence
+- Contribute to making Arabic NLP resources more accessible to the world
+
+===========================
+PERSONAL STATEMENT
+===========================
+I am a passionate Computer Science student with a strong focus on Natural Language Processing and Artificial Intelligence. 
+I believe in the power of AI to transform how we interact with technology, especially in underrepresented languages like Arabic. 
+I am constantly learning, building, and pushing myself to solve meaningful problems through code. 
+My internship at Cellula Technologies has been a turning point in my journey, exposing me to real-world NLP systems 
+and reinforcing my dedication to this field.
